@@ -1,6 +1,6 @@
 ### Hi, I'm Panagiotis Englezos 👋
 
-A Software Engineer from Greece. Passionate about web development, writing code, tinkering with Android.
+A Software Engineer from Greece. Passionate about web development, writing code and tinkering with Android.
 
 You can also find me in:
 [Telegram](https://t.me/penglezos)
