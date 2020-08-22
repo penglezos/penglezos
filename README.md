@@ -3,7 +3,8 @@
 A Software Engineer from Greece. Passionate about web development, writing code and tinkering with Android.
 
 You can also find me in:
-[Telegram](https://t.me/penglezos)
+
+* [Telegram](https://t.me/penglezos)
 
 
 <!--
