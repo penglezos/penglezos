@@ -5,7 +5,7 @@ A Software Engineer from Greece. Passionate about web development, writing code 
 You can also find me in:
 
 * [Telegram](https://t.me/penglezos)
-
+* [Twitter](https://twitter.com/englezosp)
 
 <!--
 **penglezos/penglezos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
